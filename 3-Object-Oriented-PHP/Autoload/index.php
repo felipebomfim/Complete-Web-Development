@@ -2,6 +2,6 @@
 
     include 'config.php';
 
-    // new Utilidades;
+    new Utilidades;
 
     new Home\Inicial;
